@@ -3,6 +3,8 @@ COMPETITION FOR THE BEST SHITCODE IN UKRAINE by Robot_Dreams, 2024
 
 The *single*-player game of Bulls & Cows written as a *single*-line Python program in a form of a *single* [list comprehension](https://docs.python.org/3.12/tutorial/datastructures.html#list-comprehensions).
 
+Code is here: [link](./comprehensive_cows/__main__.py)
+
 - No unneeded `eval()` metaprogramming
 - No third-party dependencies
 - Complete user experience
